@@ -19,6 +19,10 @@ This guide covers the steps to:
 
 ![Architecture diagram](k8s-kind-voting-app.png)
 
+## Voting App and Result
+![Voting App and Result](https://raw.githubusercontent.com/Irfan-devops1/k8s-kind-voting-app/main/Voting%20app.png)
+
+
 ## Observability
 
 ![Grafana diagram](grafana.png)

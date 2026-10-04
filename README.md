@@ -1,7 +1,8 @@
 # Kubernetes Kind Voting Application — DevOps Project
 Deployed a microservices-based voting application on Kubernetes using Docker and Kind. Configured Kubernetes Deployments, Services, storage, networking, and application components, and performed deployment and troubleshooting using kubectl.
 
-A comprehensive guide for setting up a Kubernetes cluster using Kind on an AWS EC2 instance, installing and configuring Argo CD, and deploying applications using Argo CD.
+## Technologies Used
+Kubernetes | Docker |EC2| Kind | Argo CD | Git | GitHub | Redis | PostgreSQL | Linux | YAML | Observability
 
 ## Overview
 
@@ -19,9 +20,11 @@ This guide covers the steps to:
 
 ![Architecture diagram](k8s-kind-voting-app.png)
 
-## Voting App and Result
+## Voting App
 
 ![Voting App](https://raw.githubusercontent.com/Irfan-devops1/k8s-kind-voting-app/main/Voting%20app.png)
+
+## Voting Result
 
 ![Voting Result](https://raw.githubusercontent.com/Irfan-devops1/k8s-kind-voting-app/main/voting%20result.png)
 
@@ -46,11 +49,10 @@ This guide covers the steps to:
 
 
 
-## Resume Description
 
 ### Project Title: 
 
-Automated Deployment of Scalable Applications on AWS EC2 with Kubernetes and Argo CD
+Automated Deployment of Scalable Voting Applications on AWS EC2 with Kubernetes and Argo CD
 
 ### Description: 
 

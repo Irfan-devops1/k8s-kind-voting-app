@@ -29,7 +29,8 @@ This guide covers the steps to:
 ![Voting Result](https://raw.githubusercontent.com/Irfan-devops1/k8s-kind-voting-app/main/voting%20result.png)
 
 ## GitOps Deployment with Argo CD
-![Voting App Deployed through Argo CD](https://raw.githubusercontent.com/Irfan-devops1/k8s-kind-voting-app/main/voting%20app%20deployed%20through%20Argocd.png)
+![Voting App Deployed through Argo CD](https://github.com/Irfan-devops1/k8s-kind-voting-app/blob/main/Argo%20CD..png)
+
 
 ## Kubernetes Deployment Verification
 

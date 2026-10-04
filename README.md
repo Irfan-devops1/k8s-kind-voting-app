@@ -18,7 +18,7 @@ This guide covers the steps to:
 
 ## Architecture
 
-![Architecture diagram](k8s-kind-voting-app.png)
+![Architecture diagram](https://github.com/Irfan-devops1/k8s-kind-voting-app/blob/main/K8s%20Kind%20Voting%20App%20Architecture.png)
 
 ## Voting App
 

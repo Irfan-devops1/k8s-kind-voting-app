@@ -39,7 +39,7 @@ This guide covers the steps to:
 ![Kubernetes Dashboard - Application Workloads](https://raw.githubusercontent.com/Irfan-devops1/k8s-kind-voting-app/main/k8s%20monitoring%20app.png)
 
 
-## Observability
+## Observability (Prometheus and Grafana)
 
 ![Grafana diagram](grafana.png)
 ![Prometheus diagram](prometheus.png)

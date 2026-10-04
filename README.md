@@ -20,7 +20,10 @@ This guide covers the steps to:
 ![Architecture diagram](k8s-kind-voting-app.png)
 
 ## Voting App and Result
-![Voting App and Result](https://raw.githubusercontent.com/Irfan-devops1/k8s-kind-voting-app/main/Voting%20app.png)
+
+![Voting App](https://raw.githubusercontent.com/Irfan-devops1/k8s-kind-voting-app/main/Voting%20app.png)
+
+![Voting Result](https://raw.githubusercontent.com/Irfan-devops1/k8s-kind-voting-app/main/voting%20result.png)
 
 
 ## Observability

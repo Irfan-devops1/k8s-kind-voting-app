@@ -1,8 +1,8 @@
-# Kubernetes Kind Voting Application — DevOps Project
+# Project Title:-  Kubernetes Kind Voting Application — DevOps Project
 Deployed a microservices-based voting application on Kubernetes using Docker and Kind. Configured Kubernetes Deployments, Services, storage, networking, and application components, and performed deployment and troubleshooting using kubectl.
 
 ## Technologies Used
-# Kubernetes | Docker |EC2| Kind | Argo CD | Git | GitHub | Redis | PostgreSQL | Linux | YAML | Observability
+# Kubernetes | Docker |EC2| Kind | Argo CD | Git | GitHub | Redis | PostgreSQL | Linux | YAML | Helm| Observability
 
 ## Overview
 
@@ -28,7 +28,7 @@ This guide covers the steps to:
 
 ![Voting Result](https://raw.githubusercontent.com/Irfan-devops1/k8s-kind-voting-app/main/voting%20result.png)
 
-## GitOps Deployment with Argo CD
+## GitOps Deployment with Argo CD (Continuous Delivery tool for automated application deployments)
 ![Voting App Deployed through Argo CD](https://github.com/Irfan-devops1/k8s-kind-voting-app/blob/main/Argo%20CD..png)
 
 
@@ -36,7 +36,7 @@ This guide covers the steps to:
 
 ![Kubernetes Deployment Verification](https://raw.githubusercontent.com/Irfan-devops1/k8s-kind-voting-app/main/k8s%20cluster%20app%20deployed.png)
 
-## Kubernetes Dashboard - Application Workloads
+## Kubernetes Dashboard - Application Workloads (User-friendly interface for managing containerized applications.)
 ![Kubernetes Dashboard - Application Workloads](https://raw.githubusercontent.com/Irfan-devops1/k8s-kind-voting-app/main/k8s%20monitoring%20app.png)
 
 
@@ -51,22 +51,6 @@ This guide covers the steps to:
 * A [Postgres](https://hub.docker.com/_/postgres/) database backed by a Docker volume
 * A [Node.js](/result) web app which shows the results of the voting in real time
 
-
-
-
-### Project Title: 
-
-Automated Deployment of Scalable Voting Applications on AWS EC2 with Kubernetes and Argo CD
-
-### Description: 
-
-Led the deployment of scalable applications on AWS EC2 using Kubernetes and Argo CD for streamlined management and continuous integration. Orchestrated deployments via Kubernetes dashboard, ensuring efficient resource utilization and seamless scaling.
-
-### Key Technologies:
-
-* AWS EC2: Infrastructure hosting for Kubernetes clusters.
-* Kubernetes Dashboard: User-friendly interface for managing containerized applications.
-* Argo CD: Continuous Delivery tool for automated application deployments.
 
 ### Achievements:
 

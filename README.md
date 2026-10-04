@@ -2,7 +2,7 @@
 Deployed a microservices-based voting application on Kubernetes using Docker and Kind. Configured Kubernetes Deployments, Services, storage, networking, and application components, and performed deployment and troubleshooting using kubectl.
 
 ## Technologies Used
-Kubernetes | Docker |EC2| Kind | Argo CD | Git | GitHub | Redis | PostgreSQL | Linux | YAML | Observability
+# Kubernetes | Docker |EC2| Kind | Argo CD | Git | GitHub | Redis | PostgreSQL | Linux | YAML | Observability
 
 ## Overview
 
